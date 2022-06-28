@@ -11,7 +11,7 @@ This set of request collection is completely based upon community work and enabl
 
 ## Prerequisites
 
-Before we start working with platform APIs, you need these 2 pieces of data: a session token and the organization id as shown in the below image.
+Before we start working with composer APIs, you need these 2 pieces of data: a session token and the organization id as shown in the below image.
 
 ![](https://github.com/amirkhan-ak/Composer-Images/blob/main/composer.png?raw=truemposer.png)
 
